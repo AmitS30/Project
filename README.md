@@ -1,2 +1,1 @@
-# Project
-<h2>This is my my first project</h2>
+# SQL Projects</h2>
